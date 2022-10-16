@@ -1,3 +1,8 @@
+"Função pré estabelecida com o Número '3'. 
+"A partir dos números 1, 2, 3 ou 4" 
+"O código escolherá uma pizza de diferentes sabores baseando-se no nº seleciondo"
+
+
 function clientePedido (numeroPedido){
     
     if ( numeroPedido === 1 ){
